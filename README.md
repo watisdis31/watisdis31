@@ -79,8 +79,8 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 I really love making custom keyboards on my free time ⌨️
 
 <p align="center">
-  <img src="./IMG_6284.webp" width="300" alt="Custom Keyboard 1"/>
-  <img src="./IMG_6286.webp" width="300" alt="Custom Keyboard 2"/>
+  <img src="./images/keyboard1.jpg" width="300" alt="Custom Keyboard 1"/>
+  <img src="./images/keyboard2.jpg" width="300" alt="Custom Keyboard 2"/>
 </p>
 
 ---

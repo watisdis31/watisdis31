@@ -1,7 +1,16 @@
-# Hi there, I'm Vincentius Edward 👋
+<p align="center">
+  <h1 align="center">Hi there, I'm Vincentius Edward 👋</h1>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" 
+    alt="Typing SVG" 
+  />
+</p>
+
+---
 
 ## 🚀 About Me
-I'm **Vincentius Edward**, a fresh graduate from **Hacktiv8** specializing in **Fullstack Development**.  
+I'm a **fresh graduate from Hacktiv8** specializing in **Fullstack Development**.  
 I enjoy building modern web and mobile applications, learning new technologies, and solving real-world problems through code.
 
 ---
@@ -39,13 +48,13 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 
   <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank">
-    <img src="https://cdn.brandfetch.io/id.jobstreet.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1id64Mup7ac" width="48" height="48" alt="JobStreet"/>
+    <img src="https://img.icons8.com/color/48/job.png" alt="JobStreet"/>
   </a>
 
   <a href="https://watisdis31.web.id" target="_blank">

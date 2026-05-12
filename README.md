@@ -30,152 +30,146 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br/>TypeScript
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" />
+      <br/><sub>TypeScript</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br/>JavaScript
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" />
+      <br/><sub>JavaScript</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br/>Git
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
+      <br/><sub>Git</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaa90od4jPrZxQ_Rbo721GYTiR3ESbwZinQ&s" width="48" height="48" alt="MySQL" />
-      <br/>MySQL
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaa90od4jPrZxQ_Rbo721GYTiR3ESbwZinQ&s" width="44" height="44" alt="MySQL" />
+      <br/><sub>MySQL</sub>
     </td>
   </tr>
 </table>
-
----
 
 ### 🎨 Frontend
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br/>React
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" />
+      <br/><sub>React</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br/>Next.js
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" />
+      <br/><sub>Next.js</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br/>Redux
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" />
+      <br/><sub>Redux</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br/>Tailwind
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind" />
+      <br/><sub>Tailwind</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br/>HTML
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" />
+      <br/><sub>HTML</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br/>CSS
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" />
+      <br/><sub>CSS</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br/>React Native
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React Native" />
+      <br/><sub>React Native</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" width="48" height="48" alt="Apollo Client" />
-      <br/>Apollo
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" width="44" height="44" alt="Apollo Client" />
+      <br/><sub>Apollo</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="48" height="48" alt="Axios" />
-      <br/>Axios
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="44" height="44" alt="Axios" />
+      <br/><sub>Axios</sub>
     </td>
   </tr>
 </table>
-
----
 
 ### ⚙️ Backend
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br/>Node.js
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
+      <br/><sub>Node.js</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br/>Express
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=express" width="44" height="44" alt="Express" />
+      <br/><sub>Express</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br/>PostgreSQL
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+      <br/><sub>PostgreSQL</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br/>MongoDB
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" />
+      <br/><sub>MongoDB</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br/>Firebase
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" alt="Firebase" />
+      <br/><sub>Firebase</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br/>GCP
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=gcp" width="44" height="44" alt="GCP" />
+      <br/><sub>GCP</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br/>AWS
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" />
+      <br/><sub>AWS</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="Sequelize" />
-      <br/>Sequelize
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="44" height="44" alt="Sequelize" />
+      <br/><sub>Sequelize</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.IO" />
-      <br/>Socket.IO
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="44" height="44" alt="Socket.IO" />
+      <br/><sub>Socket.IO</sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-      <br/>GraphQL
+    <td align="center" style="padding:14px 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL" />
+      <br/><sub>GraphQL</sub>
     </td>
   </tr>
 </table>
-
----
 
 # 🌐 Connect With Me
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" style="padding:14px 18px;">
       <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding:14px 18px;">
       <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank">
-        <img src="https://cdn-1.webcatalog.io/catalog/jobstreet/jobstreet-icon-filled-256.png?v=1714774884563" width="48" height="48" alt="JobStreet" />
+        <img src="https://cdn-1.webcatalog.io/catalog/jobstreet/jobstreet-icon-filled-256.png?v=1714774884563" width="44" height="44" alt="JobStreet" />
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding:14px 18px;">
       <a href="https://watisdis31.web.id" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" alt="Portfolio" />
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding:14px 18px;">
       <a href="https://youtube.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="48" height="48" alt="YouTube" />
+        <img src="https://cdn.simpleicons.org/youtube/FF0000" width="44" height="44" alt="YouTube" />
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding:14px 18px;">
       <a href="https://www.instagram.com/v.edw31/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram" width="44" height="44" alt="Instagram" />
       </a>
     </td>
   </tr>

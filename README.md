@@ -22,14 +22,6 @@
 I'm a **fresh graduate from Hacktiv8** specializing in **Fullstack Development**.  
 I enjoy building modern web and mobile applications, learning new technologies, and solving real-world problems through code.
 
-### 💼 Status
-
-<div style="display:flex; gap:12px; justify-content:center; margin:20px 0;">
-  <a href="mailto:vincentiusedward31@gmail.com" style="padding:12px 24px; background:linear-gradient(135deg, #10b981 0%, #059669 100%); color:white; border-radius:8px; font-weight:bold; text-decoration:none; display:inline-block; box-shadow:0 4px 15px rgba(16, 185, 129, 0.3);">
-    ✅ Available for Hire
-  </a>
-</div>
-
 ---
 
 # 🛠 Tech Stack

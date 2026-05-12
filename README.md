@@ -9,44 +9,54 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,git,mysql" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollo/apollo-original.svg" width="48" height="48" alt="Apollo Client"/>
-  <img src="https://axios-http.com/assets/logo.svg" width="48" height="48" alt="Axios"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" title="React Native" />
+  <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" width="48" height="48" alt="Apollo Client"/>
+  <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" width="48" height="48" alt="Axios"/>
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,gcp,aws" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="Sequelize"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.IO"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="Apollo GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: *https://www.linkedin.com/in/vincentius-edward-8905509a/*
-- JobStreet: *https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33*
-- Portfolio: *https://watisdis31.web.id*
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank">
+    <img src="https://cdn.brandfetch.io/id.jobstreet.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1id64Mup7ac" width="48" height="48" alt="JobStreet"/>
+  </a>
+
+  <a href="https://watisdis31.web.id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact About Me
-I really love making custom keyboards on my free time.
+I really love making custom keyboards on my free time ⌨️
 
 ---
 

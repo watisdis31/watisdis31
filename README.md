@@ -43,10 +43,6 @@ I enjoy building modern web and mobile applications, learning new technologies, 
       <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
       <br/><sub>Git</sub>
     </td>
-    <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaa90od4jPrZxQ_Rbo721GYTiR3ESbwZinQ&s" width="44" height="44" alt="MySQL" />
-      <br/><sub>MySQL</sub>
-    </td>
   </tr>
 </table>
 </div>

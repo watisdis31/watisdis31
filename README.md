@@ -155,27 +155,27 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 <table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:12px 10px;">
   <tr>
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
+      <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
       </a>
     </td>
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank">
+      <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-1.webcatalog.io/catalog/jobstreet/jobstreet-icon-filled-256.png?v=1714774884563" width="44" height="44" alt="JobStreet" />
       </a>
     </td>
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <a href="https://watisdis31.web.id" target="_blank">
+      <a href="https://watisdis31.web.id" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" alt="Portfolio" />
       </a>
     </td>
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <a href="https://youtube.com/" target="_blank">
+      <a href="https://www.youtube.com/@margarinevince" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.simpleicons.org/youtube/FF0000" width="44" height="44" style="object-fit:contain;" alt="YouTube" />
       </a>
     </td>
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
-      <a href="https://www.instagram.com/v.edw31/" target="_blank">
+      <a href="https://www.instagram.com/v.edw31/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=instagram" width="44" height="44" alt="Instagram" />
       </a>
     </td>

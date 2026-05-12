@@ -21,7 +21,8 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,git" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaa90od4jPrZxQ_Rbo721GYTiR3ESbwZinQ&s" width="48" height="48" alt="MySQL"/>
 </p>
 
 ### 🎨 Frontend
@@ -50,7 +51,7 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
@@ -62,12 +63,25 @@ I enjoy building modern web and mobile applications, learning new technologies, 
   <a href="https://watisdis31.web.id" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
   </a>
+
+  <a href="https://www.youtube.com/@margarinevince" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/>
+  </a>
+
+  <a href="https://www.instagram.com/v.edw31/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact About Me
 I really love making custom keyboards on my free time ⌨️
+
+<p align="center">
+  <img src="./IMG_6284.webp" width="300" alt="Custom Keyboard 1"/>
+  <img src="./IMG_6286.webp" width="300" alt="Custom Keyboard 2"/>
+</p>
 
 ---
 

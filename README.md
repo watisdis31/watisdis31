@@ -22,6 +22,17 @@
 I'm a **fresh graduate from Hacktiv8** specializing in **Fullstack Development**.  
 I enjoy building modern web and mobile applications, learning new technologies, and solving real-world problems through code.
 
+### 💼 Status
+
+<div style="display:flex; gap:12px; justify-content:center; margin:20px 0;">
+  <span style="padding:10px 20px; background:#10b981; color:white; border-radius:12px; font-weight:bold; display:inline-block;">
+    ✅ Available for Hire
+  </span>
+  <a href="mailto:vincentiusedward31@gmail.com" style="padding:10px 20px; background:#3b82f6; color:white; border-radius:12px; font-weight:bold; text-decoration:none; display:inline-block;">
+    📧 Get in Touch
+  </a>
+</div>
+
 ---
 
 # 🛠 Tech Stack
@@ -177,6 +188,11 @@ I enjoy building modern web and mobile applications, learning new technologies, 
     <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
       <a href="https://www.instagram.com/v.edw31/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=instagram" width="44" height="44" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center" style="padding:16px 18px; background:#0b1220; border:1px solid #223045; border-radius:16px;">
+      <a href="mailto:vincentiusedward31@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Email" />
       </a>
     </td>
   </tr>

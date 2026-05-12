@@ -1,11 +1,13 @@
-<p align="center">
-  <h1 align="center">Hi there, I'm Vincentius Edward 👋</h1>
+<div align="center">
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" 
-    alt="Typing SVG" 
-  />
-</p>
+# Hi there, I'm Vincentius Edward 👋
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" 
+  alt="Typing SVG" 
+/>
+
+</div>
 
 ---
 
@@ -48,13 +50,13 @@ I enjoy building modern web and mobile applications, learning new technologies, 
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vincentius-edward-8905509a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 
   <a href="https://id.jobstreet.com/profiles/vincentius-edward-0HHJD5sz33" target="_blank">
-    <img src="https://img.icons8.com/color/48/job.png" alt="JobStreet"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/jobstreet/jobstreet-icon-filled-256.png?v=1714774884563" width="48" height="48" alt="JobStreet"/>
   </a>
 
   <a href="https://watisdis31.web.id" target="_blank">

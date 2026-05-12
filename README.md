@@ -65,7 +65,7 @@ I enjoy building modern web and mobile applications, learning new technologies, 
   </a>
 
   <a href="https://www.youtube.com/@margarinevince" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube"/>
   </a>
 
   <a href="https://www.instagram.com/v.edw31/" target="_blank">

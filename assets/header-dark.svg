@@ -1,8 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" role="img" aria-label="Vincentius Edward">
-  <rect width="820" height="160" fill="#141210"/>
-  <line x1="48" y1="148" x2="772" y2="148" stroke="#8a2e24" stroke-width="2"/>
-  <path fill="#c45a4a" d="M56 36h36v8H72v48h16v8H56V36zm0 56h20v8H56v-8z"/>
-  <text x="112" y="62" fill="#f5f2ec" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="600">Vincentius Edward</text>
-  <text x="112" y="96" fill="#7a9a74" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" letter-spacing="0.12em">FULLSTACK DEVELOPER</text>
-  <text x="112" y="126" fill="#f5f2ec" fill-opacity="0.5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Web apps, business systems, ERP</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="188" viewBox="0 0 820 188" role="img" aria-label="Vincentius Edward">
+  <rect width="820" height="188" fill="#141210"/>
+  <rect x="0" y="0" width="820" height="4" fill="#c45a4a"/>
+  <path fill="#c45a4a" d="M48 40h32v7H60v52h16v7H48V40zm0 59h18v7H48v-7z"/>
+  <text x="96" y="68" fill="#f5f2ec" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="600">Vincentius Edward</text>
+  <text x="96" y="100" fill="#7a9a74" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" letter-spacing="0.14em">FULLSTACK DEVELOPER</text>
+  <text x="96" y="128" fill="#f5f2ec" fill-opacity="0.75" font-family="ui-monospace, 'IBM Plex Mono', Menlo, monospace" font-size="13">building web apps and business systems</text>
+  <rect x="372" y="117" width="2" height="16" fill="#c45a4a">
+    <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(48 150)">
+    <rect width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="38" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="76" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="114" width="34" height="24" rx="4" fill="#7a9a74" fill-opacity="0.35" stroke="#7a9a74"/>
+    <rect x="152" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="190" width="34" height="24" rx="4" fill="#c45a4a" fill-opacity="0.3" stroke="#c45a4a">
+      <animate attributeName="fill-opacity" values="0.3;0.6;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="228" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="266" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <rect x="304" width="34" height="24" rx="4" fill="#f5f2ec" fill-opacity="0.06" stroke="#f5f2ec" stroke-opacity="0.15"/>
+    <text x="618" y="16" fill="#f5f2ec" fill-opacity="0.4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" letter-spacing="0.06em">KEYBOARDS · POKÉMON · CODE</text>
+  </g>
+  <line x1="48" y1="182" x2="772" y2="182" stroke="#8a2e24" stroke-width="2"/>
 </svg>

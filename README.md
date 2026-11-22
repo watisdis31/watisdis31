@@ -38,10 +38,10 @@ Before tech, I spent years in F&B as an Assistant Operations Manager, so I know 
 
 | Project | Notes |
 |:--|:--|
-| [Split Bill Calculator v2](https://github.com/watisdis31/Split-Bill-Calculator-v2) | Shared expenses, split fairly, settle up |
-| [PendengarMu](https://github.com/Final-Project-H8-FSJS-RMT-069-P3/pendengarMu) | Mental health support app (Hacktiv8 final project) |
-| [UKEA](https://github.com/watisdis31/ukea-frontend-vercel) | Frontend for a community and events platform |
-| [Pokedex](https://github.com/watisdis31/pokedex-project-frontend) | Pokémon browser built with React |
+| [Split Bill Calculator v2](https://github.com/watisdis31/Split-Bill-Calculator-v2) | Split a bill from a receipt photo, then share a link so friends can claim their items |
+| [PendengarMu](https://github.com/Final-Project-H8-FSJS-RMT-069-P3/pendengarMu) | Hacktiv8 final project that matches users with psychiatrists, with live chat and video calls |
+| [UKEA](https://github.com/watisdis31/ukea-frontend-vercel) | Hacktiv8 e commerce app for staff to manage stock and sales, with admin and staff roles |
+| [Pokedex](https://github.com/watisdis31/pokedex-project-frontend) | Pokémon database with a team builder and AI build tips |
 
 ## Connect
 

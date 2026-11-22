@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" role="img" aria-label="Vincentius Edward">
+  <rect width="820" height="160" fill="#141210"/>
+  <line x1="48" y1="148" x2="772" y2="148" stroke="#8a2e24" stroke-width="2"/>
+  <path fill="#c45a4a" d="M56 36h36v8H72v48h16v8H56V36zm0 56h20v8H56v-8z"/>
+  <text x="112" y="62" fill="#f5f2ec" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="600">Vincentius Edward</text>
+  <text x="112" y="96" fill="#7a9a74" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" letter-spacing="0.12em">FULLSTACK DEVELOPER</text>
+  <text x="112" y="126" fill="#f5f2ec" fill-opacity="0.5" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Web apps, business systems, ERP</text>
+</svg>

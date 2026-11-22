@@ -73,11 +73,6 @@ Before tech, I spent years in F&B as an Assistant Operations Manager, so I know 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watisdis31&hide_border=true&bg_color=141210&color=f5f2ec&line=c45a4a&point=7a9a74&area=true&area_color=8a2e24">
-  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=watisdis31&hide_border=true&bg_color=f5f2ec&color=141210&line=8a2e24&point=3f5b3a&area=true&area_color=8a2e24"/>
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-rule-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/section-rule-light.svg">
   <img src="./assets/section-rule-light.svg" alt="" width="820"/>
